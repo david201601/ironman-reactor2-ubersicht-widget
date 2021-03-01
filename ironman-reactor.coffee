@@ -8,7 +8,6 @@ height: 100%;
 .fullpage-wrapper {
 	width: 100%;
   	height: 100%;
-  	background: radial-gradient(#353c44, #222931);
   	display: flex;
 }
 
